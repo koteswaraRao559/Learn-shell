@@ -2,4 +2,4 @@
 Shell Scripting topics
 ##########################
 
-comments
+list of comments:
