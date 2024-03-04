@@ -14,4 +14,3 @@ echo Hello World
 
 echo -e "\e[31m This text in Red Color \e[0m"
 echo -e "\e[33m This text in Yellow Color \e[0m"
-
